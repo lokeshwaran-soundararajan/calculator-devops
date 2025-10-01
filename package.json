@@ -1,0 +1,26 @@
+{
+  "name": "calculator-devops",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshwaran-soundararajan/calculator-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokeshwaran-soundararajan/calculator-devops/issues"
+  },
+  "homepage": "https://github.com/lokeshwaran-soundararajan/calculator-devops#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
